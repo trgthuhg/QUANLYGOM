@@ -21,5 +21,12 @@ namespace QUANLYGOM
         {
 
         }
+
+        private void nhàCungCấpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Forms.DanhmucNCC f =new Forms.DanhmucNCC();
+            f.StartPosition = FormStartPosition.CenterScreen;
+            f.Show();
+        }
     }
 }

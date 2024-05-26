@@ -1,0 +1,11 @@
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe.config
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.exe
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\bin\Debug\QUANLYGOM.pdb
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.AssemblyReference.cache
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Forms.DanhmucNCC.resources
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Menu.resources
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.Properties.Resources.resources
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.GenerateResource.cache
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.exe
+C:\Users\HUONG\Documents\GitHub\QUANLYGOM\QUANLYGOM\QUANLYGOM\obj\Debug\QUANLYGOM.pdb
